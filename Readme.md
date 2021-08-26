@@ -47,3 +47,6 @@ As per the flow diagram provided in the repository , our algorithm is running in
 
 [11]MObile Net - https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c
 
+## Commparitive model anaylis for finding best SOTA : 
+![solution](https://github.com/Anustup900/TEXT-DETECTION-/blob/main/Accuracy%20paradiagram.PNG)
+
