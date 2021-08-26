@@ -1,0 +1,2 @@
+# Write up 01 - Scene Text detection - ICDAR 2015 
+In the present status we have implemented some SOTA models which came out of extensive reserach using the provided reserach papers and links cited below .The AI architecture flow is designed and immplemented for the indivisual models which is leading to a detection and localisation accuracy for the scene text detection on ICDAR 2015 . The model test accuracy we finally obtained on using Deep EAST with Keras OCR is 92.5 % after validation as well.
