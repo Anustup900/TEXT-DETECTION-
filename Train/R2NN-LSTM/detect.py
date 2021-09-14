@@ -1,20 +1,4 @@
-#!/usr/bin/env python
-"""
-detector.py is an out-of-the-box windowed detector
-callable from the command line.
 
-By default it configures and runs the Caffe reference ImageNet model.
-Note that this model was trained for image classification and not detection,
-and finetuning for detection can be expected to improve results.
-
-The selective_search_ijcv_with_python code required for the selective search
-proposal mode is available at
-    https://github.com/sergeyk/selective_search_ijcv_with_python
-
-TODO:
-- batch up image filenames as well: don't want to load all of them into memory
-- come up with a batching scheme that preserved order / keeps a unique ID
-"""
 import numpy as np
 import pandas as pd
 import os
